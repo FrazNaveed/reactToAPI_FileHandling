@@ -1,4 +1,4 @@
- Markup : * This React App contains:            
+          * This React App contains:            
           * Drop files using react-dropzone 
           * Handling max file sizes
           * Handling Files & inputs at formData
