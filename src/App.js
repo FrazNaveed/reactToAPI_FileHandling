@@ -152,7 +152,7 @@ function App() {
         />
 
         <button type="submit" onClick={mintNFT}>
-          Start
+          GO!
         </button>
       </form>
     </div>
